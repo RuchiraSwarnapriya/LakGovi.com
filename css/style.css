@@ -5549,4 +5549,48 @@ p.w3ls_para {
       left: 68% !important;
     }
 }
+.advertisment{
+	display:block;
+	margin:auto;
+	
+}
+.Ad-text{
+	
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.Ad-text h4{
+	text-align: center;
+	margin: 20px 0 0;
+	font-size: 0.9em;
+    color: #1f1d1d;
+    text-decoration: none;
+    font-weight: 600;
+
+}
+.Ad-text h5{
+	text-align: center;
+	font-size:0.8em;
+	color: #272f36;
+    text-decoration: none;
+    font-weight: 400;
+}
+.Ad-text p{
+	text-align: center;
+	font-size:0.7em;
+	color: #1a1b1b;
+    text-decoration: none;
+    font-weight: 350;
+
+}
+.Ad-text a{
+	font-size:0.7em;
+	text-align: center;
+	color: #4e56ca;
+	font-weight: 350;
+	text-decoration: none;
+
+}
+
+
 /*-- //responsive media queries --*/
